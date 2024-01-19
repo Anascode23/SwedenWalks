@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWWalks.API", "SWWalks.API\SWWalks.API.csproj", "{2C9ABC5B-16CD-4192-9EEC-5C2D935E653E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9ABC5B-16CD-4192-9EEC-5C2D935E653E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9ABC5B-16CD-4192-9EEC-5C2D935E653E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9ABC5B-16CD-4192-9EEC-5C2D935E653E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9ABC5B-16CD-4192-9EEC-5C2D935E653E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA00394A-801C-4341-8BDA-D26DA3051C8B}
+	EndGlobalSection
+EndGlobal
