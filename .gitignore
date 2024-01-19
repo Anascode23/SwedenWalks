@@ -1,0 +1,16 @@
+*.user
+*.suo
+*.dll
+*.exe
+*.pdb
+/obj/
+/bin/
+/node_modules/
+/bower_components/
+/packages/
+/Debug/
+/Release/
+/binaries/
+/artifacts/
+/logs/
+/temp/
